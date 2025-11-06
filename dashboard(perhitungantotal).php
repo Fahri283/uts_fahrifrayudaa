@@ -1,3 +1,4 @@
+<?php
 // Hitung total harga dan akumulasi grand total
     $grandtotal += $total;
 
